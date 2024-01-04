@@ -24,8 +24,5 @@ Dialogus is a sleek and user-friendly Android chatting app developed in Kotlin, 
 
 Dialogus is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-For any inquiries or support, please contact the development team at dialogus.support@example.com.
 
 Happy chatting with Dialogus! 🚀
